@@ -7,10 +7,10 @@ Entender o comportamento dos clientes de um E-commerce a partir das seguintes an
 - Segmentação geográfica.
 - Última compra e valor.
 
-## Em breve:
+## Em breve
 - Mais querys com outras consultas relevantes à análise dos clientes desse E-commerce.
 - Dashboards para facilitar a visualização desses dados.
 
-## Observações:
+## Observações
 - Os dados que preechem o banco de dados desse E-commerce fictícios foram gerados com IA.
 - As análises feitas aqui foram somente para praticar análise de dados, não se tratando, portanto de um material didático, nem instrutivo.
