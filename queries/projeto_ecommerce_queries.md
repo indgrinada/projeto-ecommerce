@@ -7,6 +7,7 @@ Entender o comportamento dos clientes de um E-Commerce a partir das seguintes an
 - Frequência de compra / Fidelidade.
 - Segmentação geográfica.
 - Última compra e valor.
+- Produtos mais comprados.
 
 
 ## Tabelas
@@ -121,8 +122,3 @@ LIMIT 5;
 ```
 
 Resultado CSV em projeto_ecommerce_analise_4
-
-
-## Em breve:
-- Mais querys com outras consultas relevantes à análise dos clientes desse e-commerce fictício.
-- Dashboard para facilitar a visualização desses dados.
