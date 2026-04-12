@@ -11,9 +11,9 @@ Entender o comportamento dos clientes de um E-Commerce a partir das seguintes an
 
 ## Tabelas
 
-- Cliente: id, nome, email, cidade, estado.
-- Produto: id, nome, categoria, preço.
-- Pedido: id_pedido, id_cliente, id_produto, data, quantidade.
+- cliente: id, nome, email, cidade, estado, data_cadastro.
+- produto: id, nome, categoria, valor, estoque.
+- pedido: id, id_cliente, id_produto, data_pedido, valor_pedido.
 
 
 ## Criação das Tabelas
